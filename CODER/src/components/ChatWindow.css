@@ -1,0 +1,12 @@
+.chat-window {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  min-height: 0;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  background: rgba(21, 27, 35, 0.9);
+  box-shadow: var(--shadow-panel);
+  overflow: hidden;
+}
