@@ -18,7 +18,7 @@ CODER is a focused developer assistant that helps users write, debug, review, an
 1. Clone or download the repository.
 2. Navigate to the project directory:
    ```bash
-   cd SupportPilot-InnoViast
+   cd CODER
    ```
 3. Install dependencies:
    ```bash
